@@ -1,0 +1,5 @@
+﻿  table.cpp
+C:\Users\Landon\source\repos\Project1\Project1\table.h(37,9): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Landon\source\repos\Project1\Project1\table.h(37,9): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Landon\source\repos\Project1\Project1\table.cpp(62,73): error C3861: 'setw': identifier not found
+C:\Users\Landon\source\repos\Project1\Project1\table.cpp(63,74): error C3861: 'setw': identifier not found
